@@ -1,0 +1,45 @@
+C:\Users\User\Desktop\Walking For Adult-Size\IRC Controlling Part\IRC\Instructions for CM9\Instructions for CM9\bin\Debug\Instructions for CM9.exe.config
+C:\Users\User\Desktop\Walking For Adult-Size\IRC Controlling Part\IRC\Instructions for CM9\Instructions for CM9\obj\Debug\Instructions for CM9.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Walking For Adult-Size\IRC Controlling Part\IRC\Instructions for CM9\Instructions for CM9\obj\Debug\Instructions_for_CM9.Form1.resources
+C:\Users\User\Desktop\Walking For Adult-Size\IRC Controlling Part\IRC\Instructions for CM9\Instructions for CM9\obj\Debug\Instructions_for_CM9.Properties.Resources.resources
+C:\Users\User\Desktop\Walking For Adult-Size\IRC Controlling Part\IRC\Instructions for CM9\Instructions for CM9\obj\Debug\Instructions for CM9.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Walking For Adult-Size\IRC Controlling Part\IRC\Instructions for CM9\Instructions for CM9\bin\Debug\Instructions for CM9.exe
+C:\Users\User\Desktop\Walking For Adult-Size\IRC Controlling Part\IRC\Instructions for CM9\Instructions for CM9\bin\Debug\Instructions for CM9.pdb
+C:\Users\User\Desktop\Walking For Adult-Size\IRC Controlling Part\IRC\Instructions for CM9\Instructions for CM9\obj\Debug\Instructions for CM9.exe
+C:\Users\User\Desktop\Walking For Adult-Size\IRC Controlling Part\IRC\Instructions for CM9\Instructions for CM9\obj\Debug\Instructions for CM9.pdb
+C:\Users\User\Desktop\Walking For Adult-Size\IRC Send and recieve by GUI\Instructions for CM9\Instructions for CM9\bin\Debug\Instructions for CM9.exe.config
+C:\Users\User\Desktop\Walking For Adult-Size\IRC Send and recieve by GUI\Instructions for CM9\Instructions for CM9\obj\Debug\Instructions for CM9.exe
+C:\Users\User\Desktop\Walking For Adult-Size\IRC Send and recieve by GUI\Instructions for CM9\Instructions for CM9\obj\Debug\Instructions for CM9.pdb
+C:\Users\User\Desktop\Walking For Adult-Size\IRC Send and recieve by GUI\Instructions for CM9\Instructions for CM9\bin\Debug\Instructions for CM9.exe
+C:\Users\User\Desktop\Walking For Adult-Size\IRC Send and recieve by GUI\Instructions for CM9\Instructions for CM9\bin\Debug\Instructions for CM9.pdb
+C:\Users\User\Desktop\Walking For Adult-Size\IRC Send and recieve by GUI\Instructions for CM9\Instructions for CM9\obj\Debug\Instructions for CM9.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Walking For Adult-Size\IRC Send and recieve by GUI\Instructions for CM9\Instructions for CM9\obj\Debug\Instructions_for_CM9.Form1.resources
+C:\Users\User\Desktop\Walking For Adult-Size\IRC Send and recieve by GUI\Instructions for CM9\Instructions for CM9\obj\Debug\Instructions_for_CM9.Properties.Resources.resources
+C:\Users\User\Desktop\Walking For Adult-Size\IRC Send and recieve by GUI\Instructions for CM9\Instructions for CM9\obj\Debug\Instructions for CM9.csproj.GenerateResource.Cache
+C:\Users\Saeed\Desktop\Programs\Walking For Adult-Size\IRC Send and recieve by GUI\Instructions for CM9\Instructions for CM9\bin\Debug\Instructions for CM9.exe.config
+C:\Users\Saeed\Desktop\Programs\Walking For Adult-Size\IRC Send and recieve by GUI\Instructions for CM9\Instructions for CM9\obj\Debug\Instructions for CM9.exe
+C:\Users\Saeed\Desktop\Programs\Walking For Adult-Size\IRC Send and recieve by GUI\Instructions for CM9\Instructions for CM9\obj\Debug\Instructions for CM9.pdb
+C:\Users\Saeed\Desktop\Programs\Walking For Adult-Size\IRC Send and recieve by GUI\Instructions for CM9\Instructions for CM9\bin\Debug\Instructions for CM9.exe
+C:\Users\Saeed\Desktop\Programs\Walking For Adult-Size\IRC Send and recieve by GUI\Instructions for CM9\Instructions for CM9\bin\Debug\Instructions for CM9.pdb
+C:\Users\Saeed\Desktop\Programs\Walking For Adult-Size\IRC Send and recieve by GUI\Instructions for CM9\Instructions for CM9\obj\Debug\Instructions for CM9.csprojResolveAssemblyReference.cache
+C:\Users\Saeed\Desktop\Programs\Walking For Adult-Size\IRC Send and recieve by GUI\Instructions for CM9\Instructions for CM9\obj\Debug\Instructions_for_CM9.Form1.resources
+C:\Users\Saeed\Desktop\Programs\Walking For Adult-Size\IRC Send and recieve by GUI\Instructions for CM9\Instructions for CM9\obj\Debug\Instructions_for_CM9.Properties.Resources.resources
+C:\Users\Saeed\Desktop\Programs\Walking For Adult-Size\IRC Send and recieve by GUI\Instructions for CM9\Instructions for CM9\obj\Debug\Instructions for CM9.csproj.GenerateResource.Cache
+C:\Users\Saeed\Desktop\Programs\Walking For Adult-Size\IRC Controlling Part\IRC\Instructions for CM9 (Main Board)\Instructions for CM9\bin\Debug\Instructions for CM9.exe.config
+C:\Users\Saeed\Desktop\Programs\Walking For Adult-Size\IRC Controlling Part\IRC\Instructions for CM9 (Main Board)\Instructions for CM9\obj\Debug\Instructions for CM9.exe
+C:\Users\Saeed\Desktop\Programs\Walking For Adult-Size\IRC Controlling Part\IRC\Instructions for CM9 (Main Board)\Instructions for CM9\obj\Debug\Instructions for CM9.pdb
+C:\Users\Saeed\Desktop\Programs\Walking For Adult-Size\IRC Controlling Part\IRC\Instructions for CM9 (Main Board)\Instructions for CM9\bin\Debug\Instructions for CM9.exe
+C:\Users\Saeed\Desktop\Programs\Walking For Adult-Size\IRC Controlling Part\IRC\Instructions for CM9 (Main Board)\Instructions for CM9\bin\Debug\Instructions for CM9.pdb
+C:\Users\Saeed\Desktop\Programs\Walking For Adult-Size\IRC Controlling Part\IRC\Instructions for CM9 (Main Board)\Instructions for CM9\obj\Debug\Instructions for CM9.csprojResolveAssemblyReference.cache
+C:\Users\Saeed\Desktop\Programs\Walking For Adult-Size\IRC Controlling Part\IRC\Instructions for CM9 (Main Board)\Instructions for CM9\obj\Debug\Instructions_for_CM9.Form1.resources
+C:\Users\Saeed\Desktop\Programs\Walking For Adult-Size\IRC Controlling Part\IRC\Instructions for CM9 (Main Board)\Instructions for CM9\obj\Debug\Instructions_for_CM9.Properties.Resources.resources
+C:\Users\Saeed\Desktop\Programs\Walking For Adult-Size\IRC Controlling Part\IRC\Instructions for CM9 (Main Board)\Instructions for CM9\obj\Debug\Instructions for CM9.csproj.GenerateResource.Cache
+C:\Users\Saeed\Desktop\Walking For Adult-Size\IRC Controlling Part\IRC\Instructions for CM9 (Main Board)\Instructions for CM9\bin\Debug\Instructions for CM9.exe.config
+C:\Users\Saeed\Desktop\Walking For Adult-Size\IRC Controlling Part\IRC\Instructions for CM9 (Main Board)\Instructions for CM9\obj\Debug\Instructions for CM9.exe
+C:\Users\Saeed\Desktop\Walking For Adult-Size\IRC Controlling Part\IRC\Instructions for CM9 (Main Board)\Instructions for CM9\obj\Debug\Instructions for CM9.pdb
+C:\Users\Saeed\Desktop\Walking For Adult-Size\IRC Controlling Part\IRC\Instructions for CM9 (Main Board)\Instructions for CM9\bin\Debug\Instructions for CM9.exe
+C:\Users\Saeed\Desktop\Walking For Adult-Size\IRC Controlling Part\IRC\Instructions for CM9 (Main Board)\Instructions for CM9\bin\Debug\Instructions for CM9.pdb
+C:\Users\Saeed\Desktop\Walking For Adult-Size\IRC Controlling Part\IRC\Instructions for CM9 (Main Board)\Instructions for CM9\obj\Debug\Instructions for CM9.csprojResolveAssemblyReference.cache
+C:\Users\Saeed\Desktop\Walking For Adult-Size\IRC Controlling Part\IRC\Instructions for CM9 (Main Board)\Instructions for CM9\obj\Debug\Instructions_for_CM9.Form1.resources
+C:\Users\Saeed\Desktop\Walking For Adult-Size\IRC Controlling Part\IRC\Instructions for CM9 (Main Board)\Instructions for CM9\obj\Debug\Instructions_for_CM9.Properties.Resources.resources
+C:\Users\Saeed\Desktop\Walking For Adult-Size\IRC Controlling Part\IRC\Instructions for CM9 (Main Board)\Instructions for CM9\obj\Debug\Instructions for CM9.csproj.GenerateResource.Cache
